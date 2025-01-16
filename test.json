@@ -1,0 +1,10 @@
+{
+    "admin": {
+      "FileMgmtStrings": {
+        "DeleteSuccess": "All files have been deleted succesfully",
+        "CopySuccess": "All files have been copied succesfully",
+        "CopyFile": "Copy file"
+      }
+    }
+  }
+  
