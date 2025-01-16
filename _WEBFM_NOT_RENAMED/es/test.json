@@ -1,0 +1,9 @@
+{
+  "es": {
+    "FileMgmtStrings": {
+      "DeleteSuccess": "Todos los archivos se han eliminado correctamente",
+      "CopySuccess": "Todos los archivos se han copiado correctamente",
+      "CopyFile": "Copiar archivo"
+    }
+  }
+}
