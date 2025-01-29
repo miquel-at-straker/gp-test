@@ -30,7 +30,7 @@ def get_properties(lang):
 
 @app.route('/')
 def index():
-    lang = request.accept_languages.best_match(['es', 'en'])
+    lang = request.accept_languages.best_match(['es', 'ja', 'en'])
     properties = get_properties(lang)
     return render_template('index.html', strings=properties)
 
